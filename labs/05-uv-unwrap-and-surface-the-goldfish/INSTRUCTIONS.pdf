@@ -1,0 +1,392 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 5388
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.364706 .407843 .470588 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 51.02362 28.34646 Tm (C140 \267 Blender Masterclass) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 759.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 4 Tm /F2 21 Tf 25 TL 136.7587 0 Td (Instructions \227 Lab 5) Tj T* -136.7587 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 714.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Before you begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 705.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Use Blender and work only on a copy of the starter file.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 17.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 The supplied sample files originate from Blender 2.91. Open a copy in current Blender and use Save) Tj T* 9 0 Td (As before editing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Preserve the original input and save incremental versions.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 611.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Capture evidence at the points named below.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 605.8661 cm
+Q
+q
+1 0 0 1 57.02362 575.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 566.8661 cm
+Q
+q
+1 0 0 1 57.02362 546.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (1. Open a copied starter and apply object scale if approved.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 526.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (2. Mark seams along low-visibility regions and fin boundaries.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 506.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (3. Unwrap the model and inspect island orientation and spacing.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 486.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (4. Apply a checker texture and identify stretching.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 466.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (5. Adjust seams or UVs until density is acceptably consistent.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 446.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (6. Create a named material using Principled BSDF.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 426.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (7. Connect base-colour texture data with the correct colour space.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 406.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (8. Connect normal or roughness data as Non-Color where supplied.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (9. Set plausible roughness and specular response for a wet fish surface.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 366.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (10. Test the material under a neutral studio light.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 346.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (11. Pack or place texture dependencies in the lab folder.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 326.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (12. Capture UV, node and rendered evidence with version information.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 320.8661 cm
+Q
+q
+1 0 0 1 57.02362 290.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Expected result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 281.8661 cm
+Q
+q
+1 0 0 1 57.02362 261.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (A surfaced fish with validated UV layout, material channels and texture dependencies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 253.8661 cm
+Q
+q
+1 0 0 1 57.02362 223.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Evidence to include) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 214.8661 cm
+Q
+q
+1 0 0 1 57.02362 194.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 UV layout) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 174.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Checker test) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Shader node graph) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Neutral render) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 114.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Dependency inventory) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 108.8661 cm
+Q
+q
+1 0 0 1 57.02362 78.86614 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 69.86614 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Length 1150
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.364706 .407843 .470588 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 51.02362 28.34646 Tm (C140 \267 Blender Masterclass) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 17.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 If a command or tool behaves differently, record the Blender version and compare the current) Tj T* 9 0 Td (Blender manual.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 736.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 If a modifier or bevel looks inconsistent, verify object scale before changing geometry.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 702.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 17.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 If an export looks wrong, re-import it into a clean file and compare dimensions, normals, hierarchy) Tj T* 9 0 Td (and materials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 Never overwrite the preserved starter or baseline while diagnosing.) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Author (Tertiary Infotech Academy)
+/CreationDate (D\07220260820140708\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820140708\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (INSTRUCTIONS)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005787 00000 n 
+0000005828 00000 n 
+0000005935 00000 n 
+0000006047 00000 n 
+0000006246 00000 n 
+0000007448 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <c9ff5e73e354a38cc55accf49af88c51> <c9ff5e73e354a38cc55accf49af88c51> ]
+>>
+startxref
+7781
+%%EOF

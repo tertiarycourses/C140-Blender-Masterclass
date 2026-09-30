@@ -1,0 +1,198 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 3061
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.364706 .407843 .470588 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 51.02362 28.34646 Tm (C140 \267 Blender Masterclass) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 734.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 29 Tm /F2 21 Tf 25 TL 97.6462 0 Td (Labs \227 Blender Masterclass) Tj T* -97.6462 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 699.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (Course code: ) Tj /F2 10.5 Tf (C140) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 691.8661 cm
+Q
+q
+1 0 0 1 57.02362 657.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 17.5 Tm /F1 10.5 Tf 14 TL (Each lab is self-contained. Work from a copied starter file, preserve evidence, and use the checklist) Tj T* (before submission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.8661 cm
+Q
+q
+1 0 0 1 57.02362 629.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 279.491 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 1: Navigate Blender and organise a production scene) Tj ( \227 LO1) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 609.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 313.3535 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 2: Interpret a fish brief, budget polygons and build a blockout) Tj ( \227 LO1) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 589.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 231.632 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 3: Model and sculpt the production goldfish) Tj ( \227 LO2) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 569.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 270.1355 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 4: Repair topology, normals and deformation zones) Tj ( \227 LO2) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 549.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 210.0335 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 5: UV unwrap and surface the goldfish) Tj ( \227 LO3) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 529.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 219.347 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 6: Rig and animate a looping swim cycle) Tj ( \227 LO3) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 295.241 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 7: Create bubbles, light the scene and present for review) Tj ( \227 LO4) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.8661 cm
+q
+.094118 .133333 .188235 RG
+n 11.594 2.1875 m 281.2235 2.1875 l S
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj (Lab 8: Optimise, render and export the fish-bowl capstone) Tj ( \227 LO4) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Author (Tertiary Infotech Academy)
+/CreationDate (D\07220260820140708\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820140708\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (README)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000003454 00000 n 
+0000003495 00000 n 
+0000003602 00000 n 
+0000003714 00000 n 
+trailer
+<<
+/Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [ <824678363420d98beeb1b6c39e02338b> <824678363420d98beeb1b6c39e02338b> ]
+>>
+startxref
+4040
+%%EOF

@@ -1,0 +1,249 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 3384
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.364706 .407843 .470588 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 51.02362 28.34646 Tm (C140 \267 Blender Masterclass) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 759.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 4 Tm /F2 21 Tf 25 TL 89.49817 0 Td (Completion Checklist \227 Lab 8) Tj T* -89.49817 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 714.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Acceptance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 705.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Final source remains editable) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Geometry and performance targets are met) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 645.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Final renders use verified settings) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 625.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Clean round-trip import passes) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 605.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Manifest and package contain all dependencies) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 599.8661 cm
+Q
+q
+1 0 0 1 57.02362 569.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 560.8661 cm
+Q
+q
+1 0 0 1 57.02362 540.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Before/after statistics) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 520.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Neutral and final renders) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 500.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Export settings) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 480.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Clean re-import checks) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Release manifest) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 454.8661 cm
+Q
+q
+1 0 0 1 57.02362 424.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 415.8661 cm
+Q
+q
+1 0 0 1 57.02362 395.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] The Blender file opens without missing linked resources.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 375.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Object and material names are meaningful.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 355.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] The evidence presentation identifies the lab, version and result.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 14 3.5 Tm /F1 10.5 Tf 14 TL -9 0 Td (\177 [ ] Any unresolved limitation has an owner and next action.) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Author (Tertiary Infotech Academy)
+/CreationDate (D\07220260820140708\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820140708\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (CHECKLIST)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000003777 00000 n 
+0000003818 00000 n 
+0000003925 00000 n 
+0000004037 00000 n 
+trailer
+<<
+/Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [ <744a1f4b39cbca2145e559d3d6db2645> <744a1f4b39cbca2145e559d3d6db2645> ]
+>>
+startxref
+4366
+%%EOF

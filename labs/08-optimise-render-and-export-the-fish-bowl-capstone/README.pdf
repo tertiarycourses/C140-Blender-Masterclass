@@ -1,0 +1,244 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 3414
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.364706 .407843 .470588 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 51.02362 28.34646 Tm (C140 \267 Blender Masterclass) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 734.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 29 Tm /F2 21 Tf 25 TL -0.268093 Tw (Lab 8: Optimise, render and export the fish-bowl) Tj T* 0 Tw 194.5192 0 Td (capstone) Tj T* -194.5192 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 699.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F2 10.5 Tf .094118 .133333 .188235 rg (Level:) Tj /F1 10.5 Tf ( Advanced) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 691.8661 cm
+Q
+q
+1 0 0 1 57.02362 671.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F2 10.5 Tf .094118 .133333 .188235 rg (Alignment:) Tj /F1 10.5 Tf ( LO4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.8661 cm
+Q
+q
+1 0 0 1 57.02362 633.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 17.5 Tm /F1 10.5 Tf 14 TL (The approved animated fish must be packaged for a lightweight viewer and handed off with verification) Tj T* (evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.8661 cm
+Q
+q
+1 0 0 1 57.02362 552.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.8661 cm
+Q
+q
+1 0 0 1 57.02362 509.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 17.5 Tm /F1 10.5 Tf 14 TL (Optimise the full scene, render final evidence, export the intended asset and validate the package by) Tj T* (round trip.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 501.8661 cm
+Q
+q
+1 0 0 1 57.02362 471.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 462.8661 cm
+Q
+q
+1 0 0 1 57.02362 442.8661 cm
+q
+.094118 .133333 .188235 rg
+BT 1 0 0 1 0 3.5 Tm /F1 10.5 Tf 14 TL (A release package containing editable source, GLB/FBX export, preview and validation manifest.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.8661 cm
+Q
+q
+1 0 0 1 57.02362 404.8661 cm
+q
+.121569 .435294 .921569 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 395.8661 cm
+Q
+q
+1 0 0 1 57.02362 375.8661 cm
+q
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj /F3 10.5 Tf (INSTRUCTIONS.md) Tj /F1 10.5 Tf ( / ) Tj /F3 10.5 Tf (INSTRUCTIONS.pdf) Tj /F1 10.5 Tf ( \227 detailed learner procedure) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 355.8661 cm
+q
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj /F3 10.5 Tf (CHECKLIST.md) Tj /F1 10.5 Tf ( / ) Tj /F3 10.5 Tf (CHECKLIST.pdf) Tj /F1 10.5 Tf ( \227 acceptance and evidence checks) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.8661 cm
+q
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj /F3 10.5 Tf (STARTER.blend) Tj /F1 10.5 Tf ( \227 working input) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 315.8661 cm
+q
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj /F3 10.5 Tf (EXAMPLE.blend) Tj /F1 10.5 Tf ( \227 reference output or reusable example) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 295.8661 cm
+q
+BT 1 0 0 1 14 3.5 Tm -9 0 Td 14 TL /F1 10.5 Tf .094118 .133333 .188235 rg (\177 ) Tj /F3 10.5 Tf (Example-Presentation.pptx) Tj /F1 10.5 Tf ( \227 polished evidence-story template) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Author (Tertiary Infotech Academy)
+/CreationDate (D\07220260820140708\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820140708\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (README)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000003807 00000 n 
+0000003858 00000 n 
+0000003965 00000 n 
+0000004077 00000 n 
+0000004182 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 9 0 R
+/ID [ <038e55af9a4ce29085606a96710e4ae8> <038e55af9a4ce29085606a96710e4ae8> ]
+>>
+startxref
+4508
+%%EOF
